@@ -9,8 +9,8 @@ Gerekli programlar indirildikten sonra programı çalıştırabiliriz.
 python Program.py
 ```
 Programı çalıştırdıktan sonra üç adet seçenek çıkacak.
-![images](https://github.com/Ibrahim-Ulusall/FaceDetection/blob/main/images/program.png?raw=true)
-<p></p>
+
+<p>![images](https://github.com/Ibrahim-Ulusall/FaceDetection/blob/main/images/program.png?raw=true)</p>
 ### Not
 Programı ilk defa çalıştıracaksanız
 Program.py dosyasıyla aynı dizinde olacak şekilde
