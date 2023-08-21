@@ -9,4 +9,6 @@ Gerekli programlar indirildikten sonra programı çalıştırabiliriz.
 python Program.py
 ``
 Programı çalıştırdıktan sorna aşağıdaki gibi bir ekranla karşılaşacağız.
-![alt text] (https://github.com/Ibrahim-Ulusall/FaceDetection/blob/main/images/program.png?raw=true)
+<p>
+  <img src="https://github.com/Ibrahim-Ulusall/FaceDetection/blob/main/images/program.png?raw=true" />
+</p>
