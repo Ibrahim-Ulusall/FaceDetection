@@ -10,4 +10,11 @@ python Program.py
 ``
 Programı çalıştırdıktan sorna aşağıdaki gibi bir ekranla karşılaşacağız.
 
-![images](https://github.com/Ibrahim-Ulusall/FaceDetection/assets/94749717/8f4f96f6-2e39-46b4-aef2-f42e8ef74179)
+```bash
+
+[ 0 ] : Add User
+[ 1 ] : Detection
+[ 3 ] : Quit
+        
+Choice -> 
+```
