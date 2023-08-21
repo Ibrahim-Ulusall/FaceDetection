@@ -8,13 +8,16 @@ Gerekli programlar indirildikten sonra programı çalıştırabiliriz.
 ```bash
 python Program.py
 ``
-Programı çalıştırdıktan sorna aşağıdaki gibi bir ekranla karşılaşacağız.
+Programı çalıştırdıktan sonra üç adet seçenek çıkacak.
 
+0 : Add user  -> Bu yeni bir kullanıcı eklemek için kullanılır
+1 : Detection -> Bu seçenek bir önceki seçenekte eklenmiş kullanıcı/kullanıcıları tespit etmek için kullanılır.
+2 : Quit      -> Programdan çıkış yapmak için kullanılır.
+
+#### Not
+Programı ilk defa çalıştıracaksanız
+Program.py dosyasıyla aynı dizinde olacak şekilde
+aşağıdaki komutu çalıştırınız.
 ```bash
-
-[ 0 ] : Add User
-[ 1 ] : Detection
-[ 3 ] : Quit
-        
-Choice -> 
-```
+mkdir Datasets/Users
+``
