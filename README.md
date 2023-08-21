@@ -9,6 +9,4 @@ Gerekli programlar indirildikten sonra programı çalıştırabiliriz.
 python Program.py
 ``
 Programı çalıştırdıktan sorna aşağıdaki gibi bir ekranla karşılaşacağız.
-<p>
-  <img src="images/program.png"/>
-</p>
+<img src="images/program.png"/>
