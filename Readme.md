@@ -8,7 +8,7 @@ python Program.py
 ```
 Programı çalıştırdıktan sonra üç adet seçenek çıkacak.
 <p>
-  <img src="https://github.com/Ibrahim-Ulusall/FaceDetection/blob/main/images/program.png"/>
+  <img src="https://github.com/Ibrahim-Ulusall/FaceDetection/blob/main/images/0program.png"/>
 </p>
 
 ### Not
