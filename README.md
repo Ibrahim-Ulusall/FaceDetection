@@ -9,4 +9,4 @@ Gerekli programlar indirildikten sonra programı çalıştırabiliriz.
 python Program.py
 ``
 Programı çalıştırdıktan sorna aşağıdaki gibi bir ekranla karşılaşacağız.
-![image] (https://github.com/Ibrahim-Ulusall/FaceDetection/blob/main/images/program.png)
+![program](https://github.com/Ibrahim-Ulusall/FaceDetection/assets/94749717/27dcbe1c-b553-4f62-8ed8-c10b8135d485)
