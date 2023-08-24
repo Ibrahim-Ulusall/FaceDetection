@@ -6,7 +6,7 @@ class ProgramHelper:
     def ClearTerminal():
         if os.name == 'posix':
             os.system('clear')
-        elif os.naeme == 'nt':
+        elif os.name == 'nt':
             os.system('cls')
         else:
             pass
